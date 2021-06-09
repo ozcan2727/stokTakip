@@ -1,2 +1,2 @@
-# StokTakip
+# stokTakip
  
